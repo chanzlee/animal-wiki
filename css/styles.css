@@ -1,0 +1,22 @@
+h1, h3 {
+  margin: 30px 0;
+}
+
+
+img {
+  float: left;
+  width: 300px;
+  height: 250px;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  border: 2px solid black;
+}
+
+#output {
+  margin-top: 5%;
+}
+
+
+.hidden-start {
+  display: none;
+}
